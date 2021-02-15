@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Otp Test App</string>
+
+
+    //otp strings
+    <string name="otp_code_text">Co<br/>de</string>
+    <string name="otp_verification_text">OTP Verification</string>
+    <string name="otp_description_text">Enter the 6-digit code sent to </string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="didnt_receive_the_otp">Didn\'t receive the OTP?</string>
+
+
+</resources>
